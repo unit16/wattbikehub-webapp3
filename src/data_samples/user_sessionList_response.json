@@ -1,0 +1,528 @@
+{
+    "results": [{
+        "objectId": "HABEXrgLSm",
+        "wattbikeDevice": {
+            "serialNumber": "26007427",
+            "crankLength": 0.17,
+            "firmwareVersion": "6.00.31",
+            "commId": 2
+        },
+        "laps": [17041],
+        "location": {
+            "latitude": 52.91666,
+            "longitude": -1.15663,
+            "altitude": 28
+        },
+        "startDate": {
+            "__type": "Date",
+            "iso": "2019-10-16T15:16:34.729Z"
+        },
+        "state": "ready",
+        "deviceUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "sessionSummary": {
+            "objectId": "kh80B6rUC7",
+            "energy": 1.47,
+            "pesRightLegCoefficient": 0.08738994166456482,
+            "distance": 31.98,
+            "cadenceAvg": 24.65,
+            "balanceAvg": 57.68,
+            "powerMax": 84.37,
+            "anglePeakForceRightAvg": 309.4681238615665,
+            "time": 17041,
+            "anglePeakForceLeftNewtonsAvg": 159,
+            "powerAvg": 26.43,
+            "speedMax": 17.29,
+            "anglePeakForceRightNewtonsAvg": 137,
+            "pesLeftLegCoefficient": 0.24830488759620695,
+            "speedAvg": 6.76,
+            "revolutionsCount": 7,
+            "pesCombinedCoefficient": 0.16784741463038588,
+            "anglePeakForceLeftAvg": 132.52580166875018,
+            "cadenceMax": 63.09,
+            "createdAt": "2019-10-16T15:17:06.083Z",
+            "updatedAt": "2019-10-16T15:17:06.083Z",
+            "ACL": {
+                "role:Admin": {
+                    "read": true,
+                    "write": true
+                },
+                "FBREFz5XeY": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "__type": "Object",
+            "className": "RideSessionSummary"
+        },
+        "userPerformanceState": {
+            "__type": "Pointer",
+            "className": "UserPerformanceState",
+            "objectId": "8YVYDi9qsY"
+        },
+        "title": "Quick Ride",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FBREFz5XeY"
+        },
+        "dataVersion": "1.5",
+        "isPrivate": true,
+        "createdAt": "2019-10-16T15:17:06.190Z",
+        "updatedAt": "2019-10-16T15:17:20.099Z",
+        "processingTime": 1571239027000,
+        "sessionData": {
+            "wbs": {
+                "name": "FBREFz5XeY_HABEXrgLSm.wbs"
+            },
+            "wbsr": {
+                "name": "FBREFz5XeY_HABEXrgLSm.wbsr"
+            },
+            "tcx": {
+                "name": "FBREFz5XeY_HABEXrgLSm.tcx"
+            },
+            "fit": {
+                "name": "FBREFz5XeY_HABEXrgLSm.fit"
+            },
+            "wbss": []
+        },
+        "shareData": {
+            "strava": {
+                "id": 2793502194,
+                "uploadId": 2960247862
+            },
+            "trainingPeaks": {
+                "id": 904397501
+            }
+        },
+        "ACL": {
+            "role:Admin": {
+                "read": true,
+                "write": true
+            },
+            "FBREFz5XeY": {
+                "read": true,
+                "write": true
+            }
+        }
+    }, {
+        "objectId": "UCOLaJGx2O",
+        "wattbikeDevice": {
+            "crankLength": 0.17,
+            "serialNumber": "26007427",
+            "firmwareVersion": "1.02.01",
+            "commId": 2
+        },
+        "laps": [78491],
+        "location": {
+            "altitude": 28,
+            "longitude": -1.15925,
+            "latitude": 52.91995
+        },
+        "startDate": {
+            "__type": "Date",
+            "iso": "2019-10-16T15:12:38.079Z"
+        },
+        "state": "ready",
+        "deviceUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "sessionSummary": {
+            "objectId": "FQUN0qw201",
+            "energy": 18.82,
+            "pesRightLegCoefficient": 0.3135396562472336,
+            "distance": 636.92,
+            "cadenceAvg": 84.09,
+            "balanceAvg": 52.82,
+            "powerMax": 451.37,
+            "anglePeakForceRightAvg": 294.7161911413755,
+            "time": 78490,
+            "anglePeakForceLeftNewtonsAvg": 228,
+            "powerAvg": 187.42,
+            "speedMax": 43.09,
+            "anglePeakForceRightNewtonsAvg": 220,
+            "pesLeftLegCoefficient": 0.44604068861409757,
+            "speedAvg": 29.21,
+            "revolutionsCount": 110,
+            "pesCombinedCoefficient": 0.3797901724306656,
+            "anglePeakForceLeftAvg": 126.69485485823992,
+            "cadenceMax": 96.77,
+            "createdAt": "2019-10-16T15:14:02.376Z",
+            "updatedAt": "2019-10-16T15:14:02.376Z",
+            "ACL": {
+                "role:Admin": {
+                    "read": true,
+                    "write": true
+                },
+                "FBREFz5XeY": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "__type": "Object",
+            "className": "RideSessionSummary"
+        },
+        "userPerformanceState": {
+            "__type": "Pointer",
+            "className": "UserPerformanceState",
+            "objectId": "8YVYDi9qsY"
+        },
+        "title": "Quick Ride",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FBREFz5XeY"
+        },
+        "dataVersion": "1.5",
+        "isPrivate": true,
+        "createdAt": "2019-10-16T15:14:02.498Z",
+        "updatedAt": "2019-10-16T15:14:17.500Z",
+        "processingTime": 1571238843247,
+        "sessionData": {
+            "wbs": {
+                "name": "FBREFz5XeY_UCOLaJGx2O.wbs"
+            },
+            "wbsr": {
+                "name": "FBREFz5XeY_UCOLaJGx2O.wbsr"
+            },
+            "tcx": {
+                "name": "FBREFz5XeY_UCOLaJGx2O.tcx"
+            },
+            "fit": {
+                "name": "FBREFz5XeY_UCOLaJGx2O.fit"
+            },
+            "wbss": []
+        },
+        "shareData": {
+            "strava": {
+                "id": 2793495661,
+                "uploadId": 2960240913
+            },
+            "trainingPeaks": {
+                "id": 904395989
+            }
+        },
+        "ACL": {
+            "role:Admin": {
+                "read": true,
+                "write": true
+            },
+            "FBREFz5XeY": {
+                "read": true,
+                "write": true
+            }
+        }
+    }, {
+        "objectId": "sGi3R8UjWK",
+        "wattbikeDevice": {
+            "serialNumber": "26007427",
+            "crankLength": 0.17,
+            "firmwareVersion": "1.02.01",
+            "commId": 2
+        },
+        "laps": [24378],
+        "location": {
+            "latitude": 52.91666,
+            "longitude": -1.15667,
+            "altitude": 29
+        },
+        "startDate": {
+            "__type": "Date",
+            "iso": "2019-10-14T12:43:25.738Z"
+        },
+        "state": "ready",
+        "deviceUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "sessionSummary": {
+            "objectId": "duVs6drBNE",
+            "energy": 4.48,
+            "pesRightLegCoefficient": 0.25210673043589,
+            "distance": 140.38,
+            "cadenceAvg": 51.69,
+            "balanceAvg": 52.66,
+            "powerMax": 284.24,
+            "anglePeakForceRightAvg": 293.6078045026482,
+            "time": 24378,
+            "anglePeakForceLeftNewtonsAvg": 243,
+            "powerAvg": 128.59,
+            "speedMax": 37.26,
+            "anglePeakForceRightNewtonsAvg": 238,
+            "pesLeftLegCoefficient": 0.5181876490845605,
+            "speedAvg": 20.73,
+            "revolutionsCount": 21,
+            "pesCombinedCoefficient": 0.3851471897602252,
+            "anglePeakForceLeftAvg": 114.5081131817115,
+            "cadenceMax": 79.05,
+            "createdAt": "2019-10-14T12:43:52.958Z",
+            "updatedAt": "2019-10-14T12:43:52.958Z",
+            "ACL": {
+                "role:Admin": {
+                    "read": true,
+                    "write": true
+                },
+                "FBREFz5XeY": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "__type": "Object",
+            "className": "RideSessionSummary"
+        },
+        "userPerformanceState": {
+            "__type": "Pointer",
+            "className": "UserPerformanceState",
+            "objectId": "8YVYDi9qsY"
+        },
+        "title": "Quick Ride",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FBREFz5XeY"
+        },
+        "dataVersion": "1.5",
+        "isPrivate": true,
+        "createdAt": "2019-10-14T12:43:53.067Z",
+        "updatedAt": "2019-10-16T10:06:28.252Z",
+        "processingTime": 1571057033769,
+        "sessionData": {
+            "wbs": {
+                "name": "FBREFz5XeY_sGi3R8UjWK.wbs"
+            },
+            "wbsr": {
+                "name": "FBREFz5XeY_sGi3R8UjWK.wbsr"
+            },
+            "tcx": {
+                "name": "FBREFz5XeY_sGi3R8UjWK.tcx"
+            },
+            "fit": {
+                "name": "FBREFz5XeY_sGi3R8UjWK.fit"
+            },
+            "wbss": []
+        },
+        "shareData": {
+            "strava": {
+                "id": 2788089497,
+                "uploadId": 2954514407
+            },
+            "trainingPeaks": {
+                "id": 902808354
+            }
+        },
+        "ACL": {
+            "role:Admin": {
+                "read": true,
+                "write": true
+            },
+            "FBREFz5XeY": {
+                "read": true,
+                "write": true
+            }
+        }
+    }, {
+        "objectId": "juHg7kBqkJ",
+        "wattbikeDevice": {
+            "serialNumber": "26007427",
+            "crankLength": 0.17,
+            "firmwareVersion": "1.02.01",
+            "commId": 2
+        },
+        "laps": [35404],
+        "location": {
+            "latitude": 52.91669,
+            "longitude": -1.15668,
+            "altitude": 28
+        },
+        "startDate": {
+            "__type": "Date",
+            "iso": "2019-10-14T12:41:26.377Z"
+        },
+        "state": "ready",
+        "deviceUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "sessionSummary": {
+            "objectId": "2sDSwhAJU7",
+            "energy": 7.84,
+            "pesRightLegCoefficient": 0.23652025576517172,
+            "distance": 281.07,
+            "cadenceAvg": 72.87,
+            "balanceAvg": 52.91,
+            "powerMax": 381.17,
+            "anglePeakForceRightAvg": 299.7540500456888,
+            "time": 35404,
+            "anglePeakForceLeftNewtonsAvg": 236,
+            "powerAvg": 168.23,
+            "speedMax": 39.96,
+            "anglePeakForceRightNewtonsAvg": 225,
+            "pesLeftLegCoefficient": 0.4003650004428857,
+            "speedAvg": 28.58,
+            "revolutionsCount": 43,
+            "pesCombinedCoefficient": 0.3184426281040287,
+            "anglePeakForceLeftAvg": 122.43988808148374,
+            "cadenceMax": 81.52,
+            "createdAt": "2019-10-14T12:42:07.492Z",
+            "updatedAt": "2019-10-14T12:42:07.492Z",
+            "ACL": {
+                "role:Admin": {
+                    "read": true,
+                    "write": true
+                },
+                "FBREFz5XeY": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "__type": "Object",
+            "className": "RideSessionSummary"
+        },
+        "userPerformanceState": {
+            "__type": "Pointer",
+            "className": "UserPerformanceState",
+            "objectId": "8YVYDi9qsY"
+        },
+        "title": "Quick Ride",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FBREFz5XeY"
+        },
+        "dataVersion": "1.5",
+        "isPrivate": true,
+        "createdAt": "2019-10-14T12:42:07.631Z",
+        "updatedAt": "2019-10-14T12:42:24.978Z",
+        "processingTime": 1571056932277,
+        "sessionData": {
+            "wbs": {
+                "name": "FBREFz5XeY_juHg7kBqkJ.wbs"
+            },
+            "wbsr": {
+                "name": "FBREFz5XeY_juHg7kBqkJ.wbsr"
+            },
+            "tcx": {
+                "name": "FBREFz5XeY_juHg7kBqkJ.tcx"
+            },
+            "fit": {
+                "name": "FBREFz5XeY_juHg7kBqkJ.fit"
+            },
+            "wbss": []
+        },
+        "shareData": {
+            "strava": {
+                "id": 2788086542,
+                "uploadId": 2954511317
+            },
+            "trainingPeaks": {
+                "id": 902807248
+            }
+        },
+        "ACL": {
+            "role:Admin": {
+                "read": true,
+                "write": true
+            },
+            "FBREFz5XeY": {
+                "read": true,
+                "write": true
+            }
+        }
+    }, {
+        "objectId": "Yj6eN4Qpci",
+        "wattbikeDevice": {
+            "serialNumber": "26007427",
+            "crankLength": 0.17,
+            "firmwareVersion": "1.02.01",
+            "commId": 2
+        },
+        "laps": [43900],
+        "location": {
+            "latitude": 52.91669,
+            "longitude": -1.15671,
+            "altitude": 28
+        },
+        "startDate": {
+            "__type": "Date",
+            "iso": "2019-10-14T12:39:27.878Z"
+        },
+        "state": "ready",
+        "deviceUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "sessionSummary": {
+            "objectId": "NQKOB2H33X",
+            "energy": 12.25,
+            "pesRightLegCoefficient": 0.33841766398424233,
+            "distance": 363.14,
+            "cadenceAvg": 69.7,
+            "balanceAvg": 52.63,
+            "powerMax": 411.14,
+            "anglePeakForceRightAvg": 307.1395934970366,
+            "time": 43900,
+            "anglePeakForceLeftNewtonsAvg": 354,
+            "powerAvg": 228.6,
+            "speedMax": 43.74,
+            "anglePeakForceRightNewtonsAvg": 347,
+            "pesLeftLegCoefficient": 0.4365961717849637,
+            "speedAvg": 29.78,
+            "revolutionsCount": 51,
+            "pesCombinedCoefficient": 0.387506917884603,
+            "anglePeakForceLeftAvg": 130.3777416122848,
+            "cadenceMax": 84.63,
+            "createdAt": "2019-10-14T12:40:27.220Z",
+            "updatedAt": "2019-10-14T12:40:27.220Z",
+            "ACL": {
+                "role:Admin": {
+                    "read": true,
+                    "write": true
+                },
+                "FBREFz5XeY": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "__type": "Object",
+            "className": "RideSessionSummary"
+        },
+        "userPerformanceState": {
+            "__type": "Pointer",
+            "className": "UserPerformanceState",
+            "objectId": "8YVYDi9qsY"
+        },
+        "title": "Quick Ride",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FBREFz5XeY"
+        },
+        "dataVersion": "1.5",
+        "isPrivate": true,
+        "createdAt": "2019-10-14T12:40:27.323Z",
+        "updatedAt": "2019-10-14T12:40:49.296Z",
+        "processingTime": 1571056828019,
+        "sessionData": {
+            "wbs": {
+                "name": "FBREFz5XeY_Yj6eN4Qpci.wbs"
+            },
+            "wbsr": {
+                "name": "FBREFz5XeY_Yj6eN4Qpci.wbsr"
+            },
+            "tcx": {
+                "name": "FBREFz5XeY_Yj6eN4Qpci.tcx"
+            },
+            "fit": {
+                "name": "FBREFz5XeY_Yj6eN4Qpci.fit"
+            },
+            "wbss": []
+        },
+        "shareData": {
+            "strava": {
+                "id": 2788083495,
+                "uploadId": 2954508116
+            },
+            "trainingPeaks": {
+                "id": 902806288
+            }
+        },
+        "ACL": {
+            "role:Admin": {
+                "read": true,
+                "write": true
+            },
+            "FBREFz5XeY": {
+                "read": true,
+                "write": true
+            }
+        }
+    }]
+}

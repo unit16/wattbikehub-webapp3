@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Apercu';
+    src: local('Apercu'), url(./assets/fonts/apercu-mono-pro.ttf) format('truetype');
+}
+
+H1{
+    font-family: 'Apercu';
+}

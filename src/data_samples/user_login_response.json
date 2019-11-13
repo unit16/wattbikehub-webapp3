@@ -1,0 +1,59 @@
+{
+    "objectId": "FBREFz5XeY",
+    "email": "andymccorkell@gmail.com",
+    "username": "andymccorkell@gmail.com",
+    "profileImage": "https://secure.gravatar.com/avatar/29a44c3ed60cc16835e6d1704f8bdabf",
+    "vanityName": "andymccorkell",
+    "emailVerified": false,
+    "createdAt": "2018-01-15T10:26:55.823Z",
+    "updatedAt": "2019-10-16T15:27:47.471Z",
+    "performanceState": {
+        "__type": "Pointer",
+        "className": "UserPerformanceState",
+        "objectId": "8YVYDi9qsY"
+    },
+    "preferences": {
+        "__type": "Pointer",
+        "className": "UserPreferences",
+        "objectId": "4jOvsWW9c3"
+    },
+    "statistics": {
+        "__type": "Pointer",
+        "className": "UserStatistics",
+        "objectId": "V0KI9vv636"
+    },
+    "birthDate": {
+        "__type": "Date",
+        "iso": "1981-06-24T00:00:00.000Z"
+    },
+    "firstName": "Andy",
+    "lastName": "mccorkell",
+    "displayName": "testtest",
+    "gender": "m",
+    "authData": {
+        "strava": {
+            "id": "5757722",
+            "access_token": "10643980758c2c94ddbfd9278e485eca5197d22a"
+        },
+        "trainingPeaks": {
+            "id": "FBREFz5XeY",
+            "refresh_token": "wnM0!IAAAAKjOpjYP305HubYQy0QaTLFWsk20U4dkqAaJPUxQ8M0boQAAAAFFGiY6bI6aLFKbPWlhAAX7zmyxOS7aboi6vPBTRP3-qtA22A3C_-wpZbC-Mx4XsggRrXMl95sExyCNUFHNFM_gDyRJMmWc1DPTE7bEShRZsZBa0d0g_33mS1Xw3TVF2Pu6hY3P2fJYrp0RMC_nJJAw5xEUXaKwMouIhgl9Axyd-HNihFt4TzHuO0tGiEJ6DaGwBb0Sqrjai5Z6kPfspHoe",
+            "access_token": "gAAAAI0eFRCv_8wWDFTyLckJGzAXk0M78PKIiwz2-pQHkJSlRyc-VUsDzkLcm-VIl95NapkI4YACUsw1t7m4VaA5wrVPXTUOTdCLycCris3OWUZNKQiKeuE8dAQCmRUvFyhwodgejcIDnU_UUE7UtC3p2-E9CieSYOW9_Gb13ebYS2olBAEAAIAAAAAJCvJYraYsQxQk1VBkJn8Ipeex3bsmPT6SYKXpTl_sseS-OXzANV9qNIzXcOmYbn9HXysrIPmeLGugqRtu0SNDyCNyFZmpv0Q4f93WvYdZGyVxt2Ftd6KHt6A8dtiWCm1c3gujAqqrknWlgiHa7IveJC9_viKVJZuzK6p4X-ZajfbC5DdXaDFfBRWMiODoD1ynY9vtQMVQgDkSWprqC2i1HJEi7uC2BFvbKlYSc1fBarTXmkkmTPjQ11lPS625ZxF_f4qSNw2Td0bGcVH5H6Kyki-I769zXJw-y5o_BovRmn7UH5fF7pTX4wUW-8R-zPhXXiQ7zL7M0dy1YB460rzU"
+        }
+    },
+    "following": {
+        "__type": "Relation",
+        "className": "_User"
+    },
+    "ACL": {
+        "role:Admin": {
+            "read": true,
+            "write": true
+        },
+        "FBREFz5XeY": {
+            "read": true,
+            "write": true
+        }
+    },
+    "sessionToken": "r:0991e400edfcd68a4b57698091994b7f"
+}

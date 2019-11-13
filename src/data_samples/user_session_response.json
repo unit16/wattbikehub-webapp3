@@ -1,0 +1,226 @@
+{
+  "objectId": "4d0vufPmmq",
+  "wattbikeDevice": {
+    "serialNumber": "250test-000000",
+    "crankLength": 0.17,
+    "firmwareVersion": "1.24.00",
+    "commId": 2
+  },
+  "laps": [1994620, 2409290],
+  "location": {
+    "latitude": 52.91669,
+    "longitude": -1.15665,
+    "altitude": 28
+  },
+  "startDate": {
+    "__type": "Date",
+    "iso": "2019-11-05T08:35:52.564Z"
+  },
+  "state": "ready",
+  "deviceUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+  "sessionSummary": {
+    "objectId": "UXTBgULpjF",
+    "anglePeakForceLeftNewtonsAvg": 234,
+    "time": 2409289,
+    "powerMax": 776.89,
+    "pesRightLegCoefficient": 0.5589037250779098,
+    "balanceAvg": 51.48,
+    "cadenceAvg": 84.95,
+    "pesLeftLegCoefficient": 0.5142322304411712,
+    "hrAvg": 146.7,
+    "revolutionsCount": 3411,
+    "cadenceMax": 157.89,
+    "anglePeakForceLeftAvg": 115.21109041635673,
+    "energy": 632.96,
+    "anglePeakForceRightAvg": 304.40117861351405,
+    "speedAvg": 34.14,
+    "distance": 22849.85,
+    "anglePeakForceRightNewtonsAvg": 244,
+    "hrMax": 185,
+    "speedMax": 61.11,
+    "pesCombinedCoefficient": 0.5365679777595405,
+    "powerAvg": 211.47,
+    "createdAt": "2019-11-05T09:15:53.448Z",
+    "updatedAt": "2019-11-05T09:15:53.448Z",
+    "ACL": {
+      "*": {
+        "read": true
+      },
+      "role:Admin": {
+        "read": true,
+        "write": true
+      },
+      "u-167561f9bdf04214": {
+        "read": true,
+        "write": true
+      }
+    },
+    "__type": "Object",
+    "className": "RideSessionSummary"
+  },
+  "userPerformanceState": {
+    "objectId": "V09LMRjUrD",
+    "user": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "u-167561f9bdf04214"
+    },
+    "mhr": 228,
+    "mmp": 253,
+    "ftp": 180,
+    "weight": 77,
+    "thr": 189,
+    "vo2max": 3546,
+    "mets": 10,
+    "powerKg": 2.61,
+    "createdAt": "2019-10-07T19:21:44.004Z",
+    "updatedAt": "2019-10-07T19:21:44.004Z",
+    "ACL": {
+      "*": {
+        "read": true
+      },
+      "role:Admin": {
+        "read": true,
+        "write": true
+      },
+      "u-167561f9bdf04214": {
+        "read": true,
+        "write": true
+      }
+    },
+    "__type": "Object",
+    "className": "UserPerformanceState"
+  },
+  "title": "Quick Ride",
+  "user": {
+    "objectId": "u-167561f9bdf04214",
+    "createdAt": "2015-10-15T13:28:15.000Z",
+    "updatedAt": "2019-11-08T12:07:43.584Z",
+    "vanityName": "andym",
+    "username": "andym@wattbike.com",
+    "email": "andym@wattbike.com",
+    "firstName": "Andy",
+    "lastName": "testtest",
+    "displayName": "andymcc",
+    "gender": "m",
+    "birthDate": {
+      "__type": "Date",
+      "iso": "1981-06-24T00:00:00.000Z"
+    },
+    "country": null,
+    "profileImage": null,
+    "additionalNotificationEmail": "andymccorkell@gmail.com",
+    "emailVerified": true,
+    "performanceState": {
+      "__type": "Pointer",
+      "className": "UserPerformanceState",
+      "objectId": "V09LMRjUrD"
+    },
+    "preferences": {
+      "objectId": "up-167561f9bdf04214",
+      "createdAt": "2015-10-15T13:28:15.000Z",
+      "updatedAt": "2019-11-08T12:07:43.456Z",
+      "measurement": "metric",
+      "workoutType": "mmp",
+      "isPrivateProfile": false,
+      "notifications": {
+        "sendSessionSummary": true,
+        "sendSessionSummaryAlternate": true,
+        "notifyOnNewSession": true,
+        "notifyOnComment": true,
+        "notifyOnNewFollower": true
+      },
+      "isArmyUser": true,
+      "fitnessLevel": 20,
+      "consentPrivacyPolicy": {
+        "__type": "Date",
+        "iso": "2019-11-08T12:07:43.410Z"
+      },
+      "consentServiceUpdate": {
+        "__type": "Date",
+        "iso": "2019-10-04T06:07:00.812Z"
+      },
+      "consentNewsletter": {
+        "__type": "Date",
+        "iso": "2019-10-04T06:07:00.812Z"
+      },
+      "audioNotifications": true,
+      "ACL": {
+        "role:Admin": {
+          "read": true,
+          "write": true
+        },
+        "u-167561f9bdf04214": {
+          "read": true,
+          "write": true
+        },
+        "*": {
+          "read": true
+        }
+      },
+      "__type": "Object",
+      "className": "UserPreferences"
+    },
+    "statistics": {
+      "__type": "Pointer",
+      "className": "UserStatistics",
+      "objectId": "us-167561f9bdf04214"
+    },
+    "following": {
+      "__type": "Relation",
+      "className": "_User"
+    },
+    "ACL": {
+      "role:Admin": {
+        "read": true,
+        "write": true
+      },
+      "u-167561f9bdf04214": {
+        "read": true,
+        "write": true
+      },
+      "*": {
+        "read": true
+      }
+    },
+    "__type": "Object",
+    "className": "_User"
+  },
+  "dataVersion": "1.5",
+  "isPrivate": false,
+  "createdAt": "2019-11-05T09:15:53.554Z",
+  "updatedAt": "2019-11-05T09:15:59.436Z",
+  "processingTime": 1572945354309,
+  "sessionData": {
+    "wbs": {
+      "name": "u-167561f9bdf04214_4d0vufPmmq.wbs"
+    },
+    "wbsr": {
+      "name": "u-167561f9bdf04214_4d0vufPmmq.wbsr"
+    },
+    "tcx": {
+      "name": "u-167561f9bdf04214_4d0vufPmmq.tcx"
+    },
+    "fit": {
+      "name": "u-167561f9bdf04214_4d0vufPmmq.fit"
+    },
+    "wbss": [{
+      "name": "u-167561f9bdf04214_4d0vufPmmq_0-1994620.wbss"
+    }, {
+      "name": "u-167561f9bdf04214_4d0vufPmmq_1994620-2409290.wbss"
+    }]
+  },
+  "ACL": {
+    "*": {
+      "read": true
+    },
+    "role:Admin": {
+      "read": true,
+      "write": true
+    },
+    "u-167561f9bdf04214": {
+      "read": true,
+      "write": true
+    }
+  }
+}
